@@ -137,4 +137,4 @@ Use the green button above; if the browser blocks it, confirm the keep action.
 | **Price** | $0 |
 | **Version** | 2026 build |
 
-*deft-grove-652 · Updated 2026-10-07 · Shared under the MIT License*
+*deft-grove-652 · Updated 2026-10-08 · Shared under the MIT License*
